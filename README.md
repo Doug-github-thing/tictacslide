@@ -3,4 +3,4 @@ I take on the challenge of the modified TicTacToe as laid out by the dudes in th
 
 https://www.youtube.com/watch?v=S0_ZxxMivGY
 
-You can play the game here: https://doug-github-thing.github.io/tictootsie/
+You can play the game here: [https://doug-github-thing.github.io/tictootsie/](https://doug-github-thing.github.io/tictacslide/)
